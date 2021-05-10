@@ -1,6 +1,9 @@
 
 # Community Creation of Pulse Design Tools with SigPy.RF
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/sigpyrf-demos-ISMRM-2021/HEAD)
+
+
 Welcome to what we hope will be a very 'exciting' tutorial on RF pulse design with SigPy.RF! We have three goals for participants:
 
 1. Use SigPy to learn about two advanced pulse design topics (Exercise 1)
@@ -23,7 +26,8 @@ We have a number of previous tutorials that you can check out as well! For addit
 
 ## Running the Demos
 
-Pulse design demos will be run using Binder. Binder is a service that provides software environments that can be opened and run in entirely in the cloud. **To run the demos in the browser, click on this icon, either here or at the top of the page:** The exercises can then be opened and run simply by clicking on their filenames once the environment is built, with no local installs.
+Pulse design demos will be run using Binder. Binder is a service that provides software environments that can be opened and run in entirely in the cloud. **To run the demos in the browser, click on this icon, either here or at the top of the page:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/sigpyrf-demos-ISMRM-2021/HEAD)
+ The exercises can then be opened and run simply by clicking on their filenames once the environment is built, with no local installs.
   
 ## Exercises
 This demo is split into 3 groups of exercises, each in their own Jupyter notebook in the exercises folder:
