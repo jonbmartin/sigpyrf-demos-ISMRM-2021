@@ -2,7 +2,8 @@
 
 # Community Creation of Pulse Design Tools with SigPy.RF
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/DRAFT-ISMRM21-sigpyrf-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/sigpyrf-demos-ISMRM-2021/HEAD)
+
 
 Welcome to what we hope will be a very 'exciting' tutorial on RF pulse design with SigPy.RF! We have two goals for participants:
 
@@ -34,7 +35,8 @@ Exercise 1 will be run entirely in the browser, using Binder. There are no local
 In Exercise 2, you will make edits to SigPy's source code- there will be a Jupyter notebook to guide you in Binder, but this is done locally. We will walk you through this process from the beginning, but to get a jump start we recommend that you:
 
 1) Set up a [GitHub](https://github.com/) account
-2) 
+2) Check to make sure that git is installed
+3) Have Python >= 3.5 installed
 
 Pulse design demos will be run using Binder. Binder is a service that provides software environments that can be opened and run in entirely in the cloud. **To run the demos in the browser, click on this icon, either here or at the top of the page:** The exercises can then be opened and run simply by clicking on their filenames once the environment is built, with no local installs.
 
