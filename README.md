@@ -38,7 +38,7 @@ In Exercise 2, you will make edits to SigPy's source code- there will be a Jupyt
 2) Check to make sure that git is installed
 3) Have Python >= 3.5 installed
 
-Pulse design demos will be run using Binder. Binder is a service that provides software environments that can be opened and run in entirely in the cloud. **To run the demos in the browser, click on this icon, either here or at the top of the page:** The exercises can then be opened and run simply by clicking on their filenames once the environment is built, with no local installs.
+Please direct any questions or comments to Jonathan Martin (jonathan.b.martin@vanderbilt.edu).
 
 ![banner](figures/2021-Annual-Meeting-Online-01.jpg)
 
